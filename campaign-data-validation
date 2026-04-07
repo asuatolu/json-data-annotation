@@ -1,0 +1,13 @@
+{
+  "campaign_name": "Lead Generation Campaign",
+  "metrics": {
+    "impressions": 12450,
+    "clicks": 520,
+    "conversions": 37,
+    "conversion_rate": 0.071
+  },
+  "date_range": {
+    "start": "2025-05-01",
+    "end": "2025-05-31"
+  }
+}
